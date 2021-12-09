@@ -4,6 +4,8 @@
 
 Dimension : Responsive - 340 x 800
 
+Details -
+
 Devices which are compatible to Mobile Responsive Todo App -
 
 - Moto G4
